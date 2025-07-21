@@ -1,44 +1,19 @@
 [
-  {
-    "name": "Jane",
-    "subject": "Arts",
-    "score": 34.0,
-    "average": 0,
-    "grade": ""
-  },
-  {
-    "name": "Jab",
-    "subject": "Arts",
-    "score": 45.0,
-    "average": 0,
-    "grade": ""
-  },
-  {
-    "name": "Kev",
-    "subject": "Maths",
-    "score": 90.0,
-    "average": 0,
-    "grade": ""
-  },
-  {
-    "name": "Mel",
-    "subject": "Social",
-    "score": 56.0,
-    "average": 0,
-    "grade": ""
-  },
-  {
-    "name": "Jane",
-    "subject": "Math",
-    "score": 54.0,
-    "average": 0,
-    "grade": ""
-  },
-  {
-    "name": "Levi",
-    "subject": "Math",
-    "score": 56.0,
-    "average": 0,
-    "grade": ""
-  }
+    {
+        "name": "Ada",
+        "subjects_scores": {
+            "Eng": 88.0
+        },
+        "average": 88.0,
+        "grade": "B"
+    },
+    {
+        "name": "Blake",
+        "subjects_scores": {
+            "Eng": 76.0,
+            "Math": 78.0
+        },
+        "average": 77.0,
+        "grade": "C"
+    }
 ]
